@@ -9,14 +9,6 @@ export function FavoriteList(){
 
         // This is an element we added!
         const contentTarget = document.querySelector(".favorites-list-container")
-
-        // This does the same thing as printing with a for loop! We just use a .map() to loop over our collection and call the Note function instead of a for loop 
-        // contentTarget.innerHTML = allTheContacts.map(singleContact => 
-        //     if(singleContact.favorite === true){
-
-        //     }
-        //     Contact(singleContact)).join("")
-
         
         let favoriteListHTMLString = ""
         for(const singleContact of allTheContacts){
