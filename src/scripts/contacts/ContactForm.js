@@ -30,12 +30,13 @@ eventHub.addEventListener("click", clickEvent => {
 
     if (clickEvent.target.id === "saveContact") {
         console.log("You clicked the save contact button")
+
         // Make a new object representation of a note
         const newContact = {
             name: document.querySelector("#contact-name").value,
             cellNumber: document.querySelector("#cell-number").value,
             email: document.querySelector("#email").value,
-            favorite: document.querySelector("#favoriteContact").value
+            favorite: document.querySelector("#favoriteContact").checked
         }
         console.log("this is new note", newContact)
 
