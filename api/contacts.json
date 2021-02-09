@@ -70,6 +70,20 @@
       "email": "gabe@gmail.com",
       "favorite": true,
       "id": 11
+    },
+    {
+      "name": "Jon",
+      "cellNumber": "(563) 363-7212",
+      "email": "john@gmail.com",
+      "favorite": true,
+      "id": 12
+    },
+    {
+      "name": "Rubix",
+      "cellNumber": "(667) 534-7899",
+      "email": "rubix@gmail.com",
+      "favorite": true,
+      "id": 13
     }
   ]
 }
