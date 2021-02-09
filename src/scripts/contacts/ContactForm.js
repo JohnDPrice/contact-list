@@ -8,6 +8,7 @@ export const ContactForm = () => {
     contentTarget.innerHTML = `
         <form>
             <div class="contact-form">
+                <h2>Add a new contact</h2>
                 <input type="text" class="form-control-sm" placeholder="Name" id="contact-name" />
                 <input type="text" class="form-control-sm" placeholder="Cell Number" id="cell-number"/>
                 <input type="text" class="form-control-sm" placeholder="Email" id="email"/>

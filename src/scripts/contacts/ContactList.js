@@ -11,6 +11,6 @@ export function ContactList(){
         const contentTarget = document.querySelector(".contacts-list-container")
 
         // This does the same thing as printing with a for loop! We just use a .map() to loop over our collection and call the Note function instead of a for loop 
-        contentTarget.innerHTML = allTheContacts.map(singleContact => Contact(singleContact)).join("")
+        contentTarget.innerHTML = `<h2>Contacts</h2>` + allTheContacts.map(singleContact => Contact(singleContact)).join("")
     })
 }
