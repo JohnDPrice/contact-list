@@ -1,0 +1,61 @@
+{
+  "contacts": [
+    {
+      "name": "John Price",
+      "cellNumber": "(123) 456-7890",
+      "email": "123@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Almonds",
+      "cellNumber": "(418) 046-8771",
+      "email": "almonds@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Bob",
+      "cellNumber": "(808) 808-808",
+      "email": "Bob@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Jim",
+      "cellNumber": "(604) 321-4053",
+      "email": "Jim@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Bill",
+      "cellNumber": "(471) 411-3591",
+      "email": "Bill@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Steve",
+      "cellNumber": "(242) 245-1425",
+      "email": "Steve@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Tim",
+      "cellNumber": "(304) 367-2463",
+      "email": "Tim@gmail.com",
+      "favorite": "",
+      "id": 7
+    },
+    {
+      "name": "Jill",
+      "cellNumber": "(435) 465-2135",
+      "email": "jill@gmail.com",
+      "favorite": "",
+      "id": 8
+    },
+    {
+      "name": "Ronald",
+      "cellNumber": "(452) 345-2354 ",
+      "email": "mcdonald@gmail.com",
+      "favorite": "",
+      "id": 9
+    }
+  ]
+}

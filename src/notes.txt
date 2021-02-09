@@ -1,0 +1,5 @@
+What do the contact modules do?
+
+    - The contacts modules builds two components. One component allows the user to input a name and cell phone number into a form and save that information to a local API. The other component prints a list of all contacts to the DOM and automatically updates when a new contact is added.
+
+
